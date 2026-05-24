@@ -2,7 +2,7 @@
 ### Axis Bank × FreechargeBiz · Product Assignment Submission
 
 > **Live Prototype →** [CardWise](https://card-wise-blue.vercel.app/)
-> **PRD Document →** [`CardWise_PRD.pdf`](./CardWise_PRD.pdf)
+> **PRD Document →** [`CardWise_PRD.pdf`](./Card_wise.pdf)
 
 ---
 
